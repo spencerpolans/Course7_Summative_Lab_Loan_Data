@@ -1,0 +1,12 @@
+# Ignore all Labs
+Lab*/
+
+# Ignore specific file types
+*.docx
+~$*
+
+# Ignore all files except the ones you care about
+!Summative Lab Course 7/financial_loan_risk.ipynb
+!Summative Lab Course 7/financial_loan_data.csv
+
+
